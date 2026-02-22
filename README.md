@@ -15,12 +15,13 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 
 ###
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,aws,django,bash,androidstudio,bootstrap,c,cpp,dart,fastapi,flask,flutter,git,mysql,php,postgres,postman,vite,vercel,java" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,aws,django,bash,androidstudio,bootstrap,cpp,dart,fastapi,flask,flutter,git,mysql,php,postgres,postman,vite,vercel,java,mongodb,nginx,nodejs,supabase,ubuntu" />
 </div>
 
 ###
 ###
 ###
+
 <h3 align="left">📈 Contributions and Activity</h3>
 
 ###
