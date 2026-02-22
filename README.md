@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C9D1D9&background=FF000000&center=true&vCenter=true&width=435&lines=Hi!+I'm" />
+  <!-- First Line -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C9D1D9&background=FF000000&center=true&vCenter=true&width=435&lines=Hi!+I'm" />
   
-  <h1 style="color:#58a6ff; margin-top:5px;">Joseph</h1>
+  <br>
+  
+  <!-- Highlighted Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&background=FF000000&center=true&vCenter=true&width=435&lines=Joseph" />
 </div>
 
 ###
