@@ -74,7 +74,7 @@ I’m a Computer Science undergraduate and Full-Stack Developer based in the Phi
 
 ###
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pendonj14&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pendonj14&theme=dark&hide_border=true&background=EB545400" alt="GitHub Streak" /></a>
 </div>
 <br>
 <br>
