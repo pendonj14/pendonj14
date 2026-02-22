@@ -10,7 +10,7 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 
 ###
 ###
-
+###
 <h3 align="left">👨‍💻 Tech and Tools</h3>
 
 ###
@@ -19,7 +19,8 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 </div>
 
 ###
-
+###
+###
 <h3 align="left">📈 Contributions and Activity</h3>
 
 ###
