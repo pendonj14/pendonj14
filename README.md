@@ -9,8 +9,8 @@
 I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in the Philippines who enjoys building complete, end-to-end systems that solve real problems. From designing intuitive interfaces to engineering reliable backend logic, I’m driven by the challenge of transforming ideas into scalable, maintainable applications.<br><br>- 🌱 Actively learning more about AI integration, server-side engineering, and scalable system design.<br>- 🤝 Open to collaborating on impactful web and AI-driven projects.<br>- 📫 Reach me at: pendon.josephjr@gmail.com
 
 ###
+###
 
-<br>
 <h3 align="left">👨‍💻 Tech and Tools</h3>
 
 ###
