@@ -1,12 +1,5 @@
-<div align="center">
-  <!-- First Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=C9D1D9&background=FF000000&center=true&vCenter=true&width=435&lines=Hi!+I'm" />
-  <br>
-  <!-- Highlighted Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FFA500&background=FF000000&center=true&vCenter=true&width=435&lines=Joseph" />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=500&color=B4EAF5&background=FFB10000&vCenter=true&width=435&lines=Hi!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I'm+Joseph+Pendon" alt="Typing SVG" /></a>
 
----
 ###
 ###
 
@@ -19,7 +12,7 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 ###
 ###
 ###
-<h3 align="left">👨‍💻 Tech and Tools</h3>
+<h3 align="left">Tech and Tools</h3>
 
 ###
 <div align="left">
@@ -30,7 +23,7 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 ###
 ###
 
-<h3 align="left">📈 Contributions and Activity</h3>
+<h3 align="left">Contributions and Activity</h3>
 
 ###
 <div align="center">
