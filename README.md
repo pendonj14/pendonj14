@@ -11,7 +11,6 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 ###
 
 <br>
-<br>
 <h3 align="left">👨‍💻 Tech and Tools</h3>
 
 ###
