@@ -10,12 +10,15 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
 
 ###
 
+<br>
+<br>
 <h3 align="left">👨‍💻 Tech and Tools</h3>
 
 ###
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,aws,django,bash,androidstudio,bootstrap,c,cpp,dart,fastapi,flask,flutter,git,mysql,php,postgres,postman,vite,vercel,java" />
 </div>
+
 ###
 
 <h3 align="left">📈 Contributions and Activity</h3>
