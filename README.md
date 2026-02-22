@@ -73,7 +73,7 @@ I’m a Computer Science undergraduate and Full-Stack Developer based in the Phi
 <h3 align="left">Contributions and Activity</h3>
 
 ###
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pendonj14" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pendonj14&theme=dark" alt="GitHub Streak" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pendonj14/pendonj14/output/pacman-contribution-graph-dark.svg">
