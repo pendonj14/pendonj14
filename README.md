@@ -3,7 +3,7 @@
 ###
 ###
 
-<img align="right" height="160" src="https://tenor.com/view/yummy-tongue-flight-flight-reacts-excited-gif-17057509"  />
+<img align="right" height="160" src="https://media1.tenor.com/m/uy_OBkkROWIAAAAC/yummy-tongue.gif"  />
 
 ###
 
