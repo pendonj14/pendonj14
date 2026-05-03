@@ -3,7 +3,6 @@
 ###
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/uy_OBkkROWIAAAAC/yummy-tongue.gif"  />
 
 ###
 
