@@ -17,19 +17,32 @@
 
 </div>
 
+### `$ whoami`
+
+```bash
+> Full-Stack Developer.
+
+Computer Scientist
+I enjoy building scalable web applications from frontend to backend.
+
+Currently learning:
+- Cloud Architecture
+- AI Integration
+- System Design
+
+Email:
+pendon.josephjr@gmail.com
+```
+
+### `$ tech-stack`
 
 
-
-
-<h3 align="left">Tech and Tools</h3>
-
-###
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,aws,django,bash,androidstudio,bootstrap,cpp,dart,fastapi,flask,flutter,git,mysql,php,postgres,postman,vite,vercel,java,mongodb,nginx,nodejs,supabase,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,mysql,html,css,python,django,fastapi,postgres,supabase,aws,nginx,git,ubuntu,bash,vite,vercel,java,cpp,postman,androidstudio,npm,redis" />
 </div>
 
 
-<h3 align="left">Contributions and Activity</h3>
+### `$ contributions`
 
 ###
 <div align="center">
