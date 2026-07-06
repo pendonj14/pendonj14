@@ -18,14 +18,7 @@
 </div>
 
 
-### About Me
 
-I enjoy turning ideas into full-stack applications—from intuitive user interfaces to reliable backend systems. I'm constantly exploring modern web technologies, cloud computing, and AI to become a better software engineer.
-
-- 💻 Full-Stack Developer
-- ☁️ Learning AWS & Cloud Architecture
-- 🤖 Exploring AI integration
-- 📫 pendon.josephjr@gmail.com
 
 
 <h3 align="left">Tech and Tools</h3>
