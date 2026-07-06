@@ -1,16 +1,33 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&pause=500&color=B4EAF5&background=FFB10000&vCenter=true&width=435&lines=Hi!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I'm+Joseph+Pendon" alt="Typing SVG" /></a>
+<div align="center">
 
-###
-###
+```text
+                                                                                                                       
+     ▄▄▄   ▄▄▄▄▄    ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄   ▄▄▄   ▄▄▄   ▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄ ▄▄▄    ▄▄▄ ▄▄▄▄▄▄     ▄▄▄▄▄   ▄▄▄    ▄▄▄ 
+     ███ ▄███████▄ █████▀▀▀ ███▀▀▀▀▀ ███▀▀███▄ ███   ███   ███▀▀███▄ ███▀▀▀▀▀ ████▄  ███ ███▀▀██▄ ▄███████▄ ████▄  ███ 
+     ███ ███   ███  ▀████▄  ███▄▄    ███▄▄███▀ █████████   ███▄▄███▀ ███▄▄    ███▀██▄███ ███  ███ ███   ███ ███▀██▄███ 
+▄▄▄  ███ ███▄▄▄███    ▀████ ███      ███▀▀▀▀   ███▀▀▀███   ███▀▀▀▀   ███      ███  ▀████ ███  ███ ███▄▄▄███ ███  ▀████ 
+ ▀████▀   ▀█████▀  ███████▀ ▀███████ ███       ███   ███   ███       ▀███████ ███    ███ ██████▀   ▀█████▀  ███    ███ 
+                                                                                                                       
+                                                                                                                       
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+clean,+functional+software.;Full-Stack+Developer.;React+%7C+Next.js+%7C+TypeScript.;Always+learning+something+new." />
+</p>
+
+</div>
 
 
-###
+### About Me
 
-I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in the Philippines who enjoys building complete, end-to-end systems that solve real problems. From designing intuitive interfaces to engineering reliable backend logic, I’m driven by the challenge of transforming ideas into scalable, maintainable applications.<br><br>- 🌱 Actively learning more about AI integration, server-side engineering, and scalable system design.<br>- 🤝 Open to collaborating on impactful web and AI-driven projects.<br>- 📫 Reach me at: pendon.josephjr@gmail.com
+I enjoy turning ideas into full-stack applications—from intuitive user interfaces to reliable backend systems. I'm constantly exploring modern web technologies, cloud computing, and AI to become a better software engineer.
 
-###
-###
-###
+- 💻 Full-Stack Developer
+- ☁️ Learning AWS & Cloud Architecture
+- 🤖 Exploring AI integration
+- 📫 pendon.josephjr@gmail.com
+
+
 <h3 align="left">Tech and Tools</h3>
 
 ###
@@ -18,9 +35,6 @@ I’m a **Computer Science** undergraduate and **Full-Stack Developer** based in
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,python,aws,django,bash,androidstudio,bootstrap,cpp,dart,fastapi,flask,flutter,git,mysql,php,postgres,postman,vite,vercel,java,mongodb,nginx,nodejs,supabase,ubuntu" />
 </div>
 
-###
-###
-###
 
 <h3 align="left">Contributions and Activity</h3>
 
