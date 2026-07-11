@@ -17,22 +17,6 @@
 
 </div>
 
-### `$ whoami`
-
-```bash
-> Full-Stack Developer.
-
-Computer Scientist
-I enjoy building scalable web applications from frontend to backend.
-
-Currently learning:
-- Cloud Architecture
-- AI Integration
-- System Design
-
-Email:
-pendon.josephjr@gmail.com
-```
 
 ### `$ tech-stack`
 
