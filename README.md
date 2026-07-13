@@ -18,7 +18,7 @@
 </div>
 
 
-### `$ tech-stack`
+### `// tech-stack`
 
 
 <div align="left">
@@ -26,7 +26,7 @@
 </div>
 
 
-### `$ contributions`
+### `// contributions`
 
 ###
 <div align="center">
