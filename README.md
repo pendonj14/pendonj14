@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Full-Stack+Developer.;Building+clean,+functional+software.;React+%7C+Next.js+%7C+TypeScript.;Always+learning+something+new." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer.;Building+clean,+functional+software.;React+%7C+Next.js+%7C+TypeScript.;Always+learning+something+new." />
 </p>
 
 </div>
